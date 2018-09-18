@@ -1,0 +1,14 @@
+setup.py
+Fuccibol/__init__.py
+Fuccibol/items.py
+Fuccibol/main.py
+Fuccibol/middlewares.py
+Fuccibol/pipelines.py
+Fuccibol/settings.py
+Fuccibol/spiders/__init__.py
+Fuccibol/spiders/transfermarkt.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
